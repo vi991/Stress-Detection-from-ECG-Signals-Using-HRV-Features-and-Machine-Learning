@@ -1,0 +1,2 @@
+# Stress-Detection-from-ECG-Signals-Using-HRV-Features-and-Machine-Learning
+This project investigates stress detection using electrocardiogram (ECG) signals from the WESAD dataset.  The workflow includes:  - ECG signal preprocessing - Bandpass filtering - R-peak detection - Heart Rate Variability (HRV) analysis - Statistical comparison of stress and baseline states - Machine learning classification
